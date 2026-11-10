@@ -1,0 +1,24 @@
+
+# Lazarus / Free Pascal
+
+# Arquivos compilados
+*.exe
+*.dll
+*.so
+*.o
+*.ppu
+*.a
+*.compiled
+
+# Arquivos temporários e backups
+*.bak
+*.tmp
+*.orig
+*~
+
+# Configurações locais do Lazarus
+*.lps
+
+# Pastas de compilação
+lib/
+backup/
