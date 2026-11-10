@@ -6,7 +6,7 @@ uses
   {$IFDEF UNIX}
   cthreads,
   {$ENDIF}
-  Classes, uHttpServer,SysUtils;
+  Classes, uHttpServer,SysUtils, uEndereco, uCepService;
 
 var
   Server: THttpServer;

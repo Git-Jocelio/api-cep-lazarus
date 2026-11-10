@@ -39,6 +39,16 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="uApiController"/>
       </Unit>
+      <Unit>
+        <Filename Value="src\models\uendereco.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEndereco"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src\services\ucepservice.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCepService"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
